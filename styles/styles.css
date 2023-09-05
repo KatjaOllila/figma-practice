@@ -17,16 +17,22 @@
 .main-title {
     max-width: 495px;
     width: 100%;
+    margin-top: 203px;
+    margin-left: 200px;
     color: #1B0A42;
     font-size: 72px;
     font-family: 'Ramaraja', serif;
     font-weight: 400;
     line-height: 76px;
-    letter-spacing: 1.44px;
+    letter-spacing: -0.2em;
     word-wrap: break-word
 }
 
 .main-text {
+    max-width: 583px;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 200px;
     color: #9A9A9A;
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
@@ -37,6 +43,12 @@
 }
 
 .main-btn {
+    background-color: #A3DC00;
+    border-radius: 6px;
+    width: 152px;
+    height: 64px;
+    margin-top: 50px;
+    margin-left: 200px;
     color: white;
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
@@ -44,4 +56,5 @@
     line-height: 32px;
     letter-spacing: 0.32px;
     word-wrap: break-word
+    
 }
